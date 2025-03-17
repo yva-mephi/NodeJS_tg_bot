@@ -7,7 +7,7 @@ import stopCommand from "./commands/stop.js";
 import leaderboardCommand from "./commands/leaderboard.js";
 import adminCommand from "./commands/admin.js";
 import resetCommand from "./commands/reset.js";
-import menuCommand from "./commands/menu.js"; // Импортируем команду /menu
+import menuCommand from "./commands/menu.js";
 import commandCenter from "./components/commandCenter.js";
 import { loadQuestions, questionsData } from "./components/loadQuestions.js";
 import db from "./database/init.js";
@@ -31,7 +31,7 @@ bot.use(session({
             nodejs: 0,
         },
         hasStartedRatingMode: false,
-        questionsData, // Добавляем questionsData в сессию
+        questionsData,
     }),
 }));
 
@@ -46,7 +46,7 @@ bot.api.setMyCommands([
     { command: "stop", description: "🛑 Завершить тест" },
     { command: "leaderboard", description: "🏆 Таблица лидеров" },
     { command: "reset", description: "🔄 Сбросить прогресс по текущей категории" },
-    { command: "menu", description: "🏠 Вернуться в главное меню" }, // Добавляем команду /menu
+    { command: "menu", description: "🏠 Вернуться в главное меню" },
 ]);
 
 // Обработчик команды /start
@@ -67,7 +67,7 @@ bot.command("start", async (ctx) => {
             "/stop - Завершить тест\n" +
             "/leaderboard - Таблица лидеров\n" +
             "/reset - Сбросить прогресс по текущей категории\n" +
-            "/menu - Вернуться в главное меню", // Добавляем описание команды /menu
+            "/menu - Вернуться в главное меню",
     });
 
     // Клавиатура с кнопками

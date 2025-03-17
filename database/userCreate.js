@@ -11,7 +11,6 @@ async function createProfile(username) {
             }
 
             if (!row) {
-                // Если пользователя нет, создаём новую запись
                 db.run(
                     "INSERT INTO leaderboard (username, last_played) VALUES (?, ?)",
                     [username, "Еще не играл"],

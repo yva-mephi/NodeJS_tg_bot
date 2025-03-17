@@ -25,7 +25,6 @@ async function startQuiz(ctx, category) {
         ctx.session.askedQuestions = [];
         ctx.session.currentQuestion = null;
 
-        // Возвращаем главную клавиатуру
         const startKeyboard = {
             keyboard: [
                 [{ text: "📄 HTML" }, { text: "🎨 CSS" }],

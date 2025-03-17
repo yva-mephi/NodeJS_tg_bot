@@ -27,7 +27,7 @@ async function handleQuizAnswer(ctx, answer) {
             await ctx.reply(`Игра завершена! Ваш счет: ${ctx.session.score}`);
             ctx.session.ratingMode = false;
             ctx.session.score = 0;
-            returnMainMenu(ctx); // Возвращаем главное меню
+            returnMainMenu(ctx);
             return;
         }
     }
@@ -35,7 +35,6 @@ async function handleQuizAnswer(ctx, answer) {
     // Добавляем вопрос в список заданных
     ctx.session.askedQuestions = [...askedQuestions, currentQuestion.index];
 
-    // Получаем вопросы для текущей категории
     const questions = ctx.session.questionsData[currentCategory];
 
     // Проверяем, остались ли вопросы
@@ -43,7 +42,6 @@ async function handleQuizAnswer(ctx, answer) {
         const username = ctx.from.username || ctx.from.first_name;
         const finalScore = ratingMode ? ctx.session.score : ctx.session.correctAnswers[currentCategory];
 
-        // Обновляем таблицу лидеров
         await updateLeaderboard(username, ratingMode ? "rating" : currentCategory, finalScore);
 
         await ctx.reply(`🎉 Вы прошли все вопросы! Набранные баллы: ${finalScore}`);
@@ -52,11 +50,10 @@ async function handleQuizAnswer(ctx, answer) {
         ctx.session.ratingMode = false;
         ctx.session.score = 0;
 
-        returnMainMenu(ctx); // Возвращаем главное меню
+        returnMainMenu(ctx);
         return;
     }
 
-    // Запускаем следующий вопрос
     await startQuiz(ctx, currentCategory);
 }
 
