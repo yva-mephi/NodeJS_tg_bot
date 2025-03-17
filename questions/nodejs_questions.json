@@ -1,0 +1,274 @@
+{
+    "questions": [
+        {
+            "question": "Что такое Node.js?",
+            "options": [
+                "Серверная платформа для выполнения JavaScript",
+                "Язык программирования",
+                "Библиотека для работы с базами данных",
+                "Инструмент для тестирования"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой менеджер пакетов используется в Node.js?",
+            "options": [
+                "npm",
+                "yarn",
+                "bower",
+                "pip"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'npm init'?",
+            "options": [
+                "Команда для создания нового файла package.json",
+                "Команда для установки пакетов",
+                "Команда для обновления пакетов",
+                "Команда для удаления пакетов"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания HTTP-сервера в Node.js?",
+            "options": [
+                "http.createServer()",
+                "http.startServer()",
+                "http.newServer()",
+                "http.runServer()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой объект используется для обработки запросов и ответов в Node.js?",
+            "options": [
+                "request и response",
+                "req и res",
+                "httpRequest и httpResponse",
+                "input и output"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Что такое 'middleware' в Express?",
+            "options": [
+                "Функция, которая имеет доступ к объектам запроса и ответа",
+                "Компонент для работы с базами данных",
+                "Функция для обработки ошибок",
+                "Инструмент для тестирования"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для отправки ответа клиенту в Express?",
+            "options": [
+                "res.send()",
+                "response.send()",
+                "res.reply()",
+                "response.sendResponse()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'npm install'?",
+            "options": [
+                "Команда для установки пакетов",
+                "Команда для обновления пакетов",
+                "Команда для удаления пакетов",
+                "Команда для создания нового проекта"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для обработки GET-запросов в Express?",
+            "options": [
+                "app.get()",
+                "app.request()",
+                "app.handleGet()",
+                "app.post()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'callback' в Node.js?",
+            "options": [
+                "Функция, переданная в другую функцию для выполнения после завершения",
+                "Метод для обработки ошибок",
+                "Функция для работы с потоками",
+                "Функция для работы с базами данных"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для чтения файла в Node.js?",
+            "options": [
+                "fs.readFile()",
+                "fs.openFile()",
+                "fs.getFile()",
+                "fs.loadFile()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'Promise' в JavaScript?",
+            "options": [
+                "Объект, представляющий результат асинхронной операции",
+                "Метод для обработки ошибок",
+                "Функция для работы с потоками",
+                "Функция для работы с базами данных"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для работы с асинхронными операциями в Node.js?",
+            "options": [
+                "async/await",
+                "then()",
+                "callback()",
+                "promise()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой модуль используется для работы с файловой системой в Node.js?",
+            "options": [
+                "fs",
+                "fileSystem",
+                "filesystem",
+                "files"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'event emitter' в Node.js?",
+            "options": [
+                "Объект, который может генерировать и обрабатывать события",
+                "Метод для работы с асинхронным кодом",
+                "Функция для работы с потоками",
+                "Компонент для создания HTTP-сервера"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для подписки на событие в Node.js?",
+            "options": [
+                "emitter.on()",
+                "emitter.subscribe()",
+                "emitter.addListener()",
+                "emitter.listen()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'Express'?",
+            "options": [
+                "Фреймворк для создания веб-приложений на Node.js",
+                "Библиотека для работы с базами данных",
+                "Язык программирования",
+                "Инструмент для тестирования"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для обработки POST-запросов в Express?",
+            "options": [
+                "app.post()",
+                "app.request()",
+                "app.handlePost()",
+                "app.get()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'CORS'?",
+            "options": [
+                "Механизм, позволяющий ограничивать доступ к ресурсам на сервере",
+                "Метод для обработки ошибок",
+                "Функция для работы с потоками",
+                "Инструмент для тестирования"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой модуль используется для работы с HTTP-запросами в Node.js?",
+            "options": [
+                "http",
+                "https",
+                "request",
+                "axios"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для завершения HTTP-запроса?",
+            "options": [
+                "res.end()",
+                "response.close()",
+                "req.finish()",
+                "res.send()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'dotenv'?",
+            "options": [
+                "Библиотека для загрузки переменных окружения из .env файла",
+                "Фреймворк для работы с базами данных",
+                "Инструмент для тестирования",
+                "Метод для обработки ошибок"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для удаления пакета в Node.js?",
+            "options": [
+                "npm uninstall",
+                "npm remove",
+                "npm delete",
+                "npm clear"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'socket.io'?",
+            "options": [
+                "Библиотека для работы с веб-сокетами",
+                "Фреймворк для создания REST API",
+                "Инструмент для тестирования",
+                "Метод для обработки ошибок"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для обработки ошибок в Express?",
+            "options": [
+                "app.use((err, req, res, next) => {})",
+                "app.error((err, req, res) => {})",
+                "app.handleError((err) => {})",
+                "app.catch((err) => {})"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для работы с сессиями в Express?",
+            "options": [
+                "express-session",
+                "session-manager",
+                "express-sessions",
+                "session-handler"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'MongoDB'?",
+            "options": [
+                "Документо-ориентированная NoSQL база данных",
+                "Реляционная база данных",
+                "Фреймворк для создания веб-приложений",
+                "Язык программирования"
+            ],
+            "correctOption": 0
+        }
+    ]
+}

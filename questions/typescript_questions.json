@@ -1,0 +1,284 @@
+{
+    "questions": [
+        {
+            "question": "Что такое TypeScript?",
+            "options": [
+                "Язык программирования, основанный на JavaScript с поддержкой статической типизации",
+                "Фреймворк для создания веб-приложений",
+                "Библиотека для работы с базами данных",
+                "Инструмент для тестирования"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой файл используется для конфигурации TypeScript?",
+            "options": [
+                "tsconfig.json",
+                "typescript.config",
+                "config.ts",
+                "package.json"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для объявления переменной в TypeScript?",
+            "options": [
+                "let",
+                "const",
+                "var",
+                "Все вышеперечисленные"
+            ],
+            "correctOption": 3
+        },
+        {
+            "question": "Какой тип данных используется для представления чисел в TypeScript?",
+            "options": [
+                "number",
+                "int",
+                "float",
+                "decimal"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тип данных используется для представления строк в TypeScript?",
+            "options": [
+                "string",
+                "text",
+                "char",
+                "String"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое интерфейсы в TypeScript?",
+            "options": [
+                "Способ определения структуры объектов",
+                "Метод для обработки ошибок",
+                "Тип данных",
+                "Функция для работы с асинхронным кодом"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Как объявить массив строк в TypeScript?",
+            "options": [
+                "let arr: string[];",
+                "let arr: Array<string>;",
+                "let arr: string[] = new Array();",
+                "Все вышеперечисленные"
+            ],
+            "correctOption": 3
+        },
+        {
+            "question": "Что такое 'enum' в TypeScript?",
+            "options": [
+                "Перечисление, позволяющее создавать набор именованных констант",
+                "Тип данных",
+                "Метод для обработки ошибок",
+                "Функция для работы с массивами"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для указания типа переменной?",
+            "options": [
+                ":",
+                "=",
+                "=>",
+                "->"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тип данных используется для представления булевых значений в TypeScript?",
+            "options": [
+                "boolean",
+                "bool",
+                "true/false",
+                "Boolean"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'any' в TypeScript?",
+            "options": [
+                "Тип, который может представлять любое значение",
+                "Тип для строк",
+                "Тип для чисел",
+                "Тип для объектов"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Как объявить функцию с типами параметров и возвращаемого значения в TypeScript?",
+            "options": [
+                "function myFunc(param: string): number {}",
+                "function myFunc(param: string) {}",
+                "function myFunc(param: string): void {}",
+                "function myFunc(param): number {}"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'type' в TypeScript?",
+            "options": [
+                "Способ создания новых типов на основе существующих",
+                "Метод для обработки ошибок",
+                "Тип данных",
+                "Функция для работы с асинхронным кодом"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для объединения типов в TypeScript?",
+            "options": [
+                "|",
+                "&",
+                "&&",
+                "||"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'generics' в TypeScript?",
+            "options": [
+                "Способ создания компонентов, которые работают с различными типами",
+                "Тип данных",
+                "Метод для обработки ошибок",
+                "Функция для работы с массивами"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для компиляции TypeScript в JavaScript?",
+            "options": [
+                "tsc",
+                "tscompile",
+                "typescript",
+                "npm run build"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой ключевое слово используется для создания класса в TypeScript?",
+            "options": [
+                "class",
+                "function",
+                "object",
+                "type"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Как объявить приватное свойство в классе TypeScript?",
+            "options": [
+                "private propertyName;",
+                "protected propertyName;",
+                "public propertyName;",
+                "readonly propertyName;"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'abstract class' в TypeScript?",
+            "options": [
+                "Класс, который не может быть инстанцирован и может содержать абстрактные методы",
+                "Класс, который может быть инстанцирован",
+                "Класс, который содержит только статические методы",
+                "Класс, который является интерфейсом"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тип данных используется для представления объектов в TypeScript?",
+            "options": [
+                "object",
+                "Object",
+                "any",
+                "не существует такого типа"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'tuple' в TypeScript?",
+            "options": [
+                "Массив фиксированной длины с элементами разных типов",
+                "Массив переменной длины",
+                "Тип данных",
+                "Функция для работы с массивами"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания интерфейса в TypeScript?",
+            "options": [
+                "interface MyInterface {}",
+                "class MyInterface {}",
+                "type MyInterface = {}",
+                "declare MyInterface {}"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Как объявить функцию, которая принимает другой тип функции в качестве параметра?",
+            "options": [
+                "function myFunc(callback: () => void) {}",
+                "function myFunc(callback: void) {}",
+                "function myFunc(callback: Function) {}",
+                "function myFunc(callback: any) {}"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'namespace' в TypeScript?",
+            "options": [
+                "Способ организации кода и предотвращения конфликтов имен",
+                "Тип данных",
+                "Метод для обработки ошибок",
+                "Функция для работы с массивами"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для импорта модулей в TypeScript?",
+            "options": [
+                "import",
+                "require",
+                "include",
+                "using"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тип данных используется для представления значения, которое может быть либо строкой, либо числом?",
+            "options": [
+                "string | number",
+                "string & number",
+                "any",
+                "union"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для определения типа переменной на основе ее значения?",
+            "options": [
+                "typeof",
+                "instanceof",
+                "is",
+                "checkType"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для определения свойства в интерфейсе как необязательного?",
+            "options": [
+                "propertyName?: type;",
+                "propertyName! : type;",
+                "propertyName: type | undefined;",
+                "propertyName: type;"
+            ],
+            "correctOption": 0
+        }
+    ]
+}

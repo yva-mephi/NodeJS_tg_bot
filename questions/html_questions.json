@@ -1,0 +1,324 @@
+{
+    "questions": [
+        {
+            "question": "Какой тег используется для создания ссылки?",
+            "options": [
+                "<link>",
+                "<a>",
+                "<div>",
+                "<img>"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой тег используется для создания списка?",
+            "options": [
+                "<list>",
+                "<ul>",
+                "<ol>",
+                "<menu>"
+            ],
+            "correctOption": 2
+        },
+        {
+            "question": "Какой атрибут используется для указания адреса ссылки?",
+            "options": [
+                "href",
+                "src",
+                "link",
+                "url"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для выделения текста жирным шрифтом?",
+            "options": [
+                "<strong>",
+                "<b>",
+                "<bold>",
+                "<em>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания заголовков?",
+            "options": [
+                "<head>",
+                "<h1> - <h6>",
+                "<title>",
+                "<header>"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой тег используется для вставки изображения?",
+            "options": [
+                "<img>",
+                "<image>",
+                "<src>",
+                "<picture>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания таблицы?",
+            "options": [
+                "<table>",
+                "<tab>",
+                "<tbody>",
+                "<tr>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой атрибут используется для задания альтернативного текста для изображений?",
+            "options": [
+                "alt",
+                "title",
+                "src",
+                "href"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания абзаца?",
+            "options": [
+                "<p>",
+                "<paragraph>",
+                "<ab>",
+                "<text>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания формы?",
+            "options": [
+                "<form>",
+                "<input>",
+                "<textarea>",
+                "<submit>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой атрибут у тега <input> используется для задания типа поля ввода?",
+            "options": [
+                "type",
+                "value",
+                "name",
+                "placeholder"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания выпадающего списка?",
+            "options": [
+                "<select>",
+                "<list>",
+                "<dropdown>",
+                "<option>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания раздела на странице?",
+            "options": [
+                "<section>",
+                "<div>",
+                "<article>",
+                "<header>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания метаданных документа?",
+            "options": [
+                "<meta>",
+                "<head>",
+                "<title>",
+                "<link>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для вставки аудио на страницу?",
+            "options": [
+                "<audio>",
+                "<media>",
+                "<sound>",
+                "<music>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для вставки видео на страницу?",
+            "options": [
+                "<video>",
+                "<media>",
+                "<movie>",
+                "<film>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания кнопки?",
+            "options": [
+                "<button>",
+                "<input type='button'>",
+                "<click>",
+                "<submit>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания ненумерованного списка?",
+            "options": [
+                "<ul>",
+                "<ol>",
+                "<list>",
+                "<menu>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания элемента списка?",
+            "options": [
+                "<li>",
+                "<item>",
+                "<element>",
+                "<listitem>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой атрибут у тега <a> указывает, открывать ли ссылку в новом окне?",
+            "options": [
+                "target",
+                "href",
+                "rel",
+                "link"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания метки к полю ввода?",
+            "options": [
+                "<label>",
+                "<input>",
+                "<text>",
+                "<field>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания горизонтальной линии?",
+            "options": [
+                "<line>",
+                "<hr>",
+                "<hline>",
+                "<break>"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой тег используется для создания области для ввода текста?",
+            "options": [
+                "<input>",
+                "<textarea>",
+                "<text>",
+                "<field>"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой тег используется для создания сносок?",
+            "options": [
+                "<footer>",
+                "<aside>",
+                "<note>",
+                "<reference>"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой тег используется для вставки SVG графики?",
+            "options": [
+                "<svg>",
+                "<img>",
+                "<graphic>",
+                "<picture>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для определения стиля документа?",
+            "options": [
+                "<style>",
+                "<css>",
+                "<script>",
+                "<link>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для добавления JavaScript в HTML?",
+            "options": [
+                "<script>",
+                "<js>",
+                "<javascript>",
+                "<link>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания списка определений?",
+            "options": [
+                "<dl>",
+                "<list>",
+                "<definition>",
+                "<ul>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания элемента списка в списке определений?",
+            "options": [
+                "<dt>",
+                "<dd>",
+                "<li>",
+                "<item>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой атрибут у тега <img> используется для задания источника изображения?",
+            "options": [
+                "src",
+                "href",
+                "alt",
+                "link"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания области для ввода пароля?",
+            "options": [
+                "<input type='password'>",
+                "<password>",
+                "<input>",
+                "<text>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой тег используется для создания кнопки отправки формы?",
+            "options": [
+                "<submit>",
+                "<button>",
+                "<input type='submit'>",
+                "<send>"
+            ],
+            "correctOption": 2
+        }
+    ]
+}

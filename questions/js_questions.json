@@ -1,0 +1,234 @@
+{
+    "questions": [
+        {
+            "question": "Какой из следующих операторов используется для присваивания значения переменной?",
+            "options": [
+                "=",
+                "==",
+                "===",
+                "=>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для преобразования строки в число?",
+            "options": [
+                "parseInt()",
+                "number()",
+                "parseFloat()",
+                "toNumber()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов добавляет элемент в конец массива?",
+            "options": [
+                "push()",
+                "pop()",
+                "shift()",
+                "unshift()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для удаления последнего элемента массива?",
+            "options": [
+                "pop()",
+                "push()",
+                "shift()",
+                "splice()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для сравнения двух значений без приведения типов?",
+            "options": [
+                "==",
+                "===",
+                "!=",
+                "!=="
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой метод используется для объединения двух массивов?",
+            "options": [
+                "concat()",
+                "merge()",
+                "join()",
+                "combine()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для логического И?",
+            "options": [
+                "||",
+                "&&",
+                "!",
+                "and"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой метод используется для преобразования массива в строку?",
+            "options": [
+                "toString()",
+                "join()",
+                "stringify()",
+                "convert()"
+            ],
+            "correctOption": 1
+        },
+        {
+            "question": "Какой из следующих методов используется для создания объекта?",
+            "options": [
+                "new Object()",
+                "create Object()",
+                "Object.create()",
+                "make Object()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для определения длины массива?",
+            "options": [
+                "length()",
+                "size()",
+                "count()",
+                "length"
+            ],
+            "correctOption": 3
+        },
+        {
+            "question": "Какой метод используется для перебора элементов массива?",
+            "options": [
+                "forEach()",
+                "map()",
+                "filter()",
+                "reduce()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих способов используется для определения типа переменной?",
+            "options": [
+                "typeof",
+                "instanceof",
+                "type()",
+                "varType()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания функции?",
+            "options": [
+                "function(){}",
+                "create function(){}",
+                "new Function()",
+                "def function(){}"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для остановки выполнения скрипта?",
+            "options": [
+                "break",
+                "stop",
+                "exit",
+                "return"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для проверки наличия свойства в объекте?",
+            "options": [
+                "hasOwnProperty()",
+                "in",
+                "exists()",
+                "checkProperty()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для добавления элемента в начало массива?",
+            "options": [
+                "unshift()",
+                "push()",
+                "shift()",
+                "prepend()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для удаления первого элемента массива?",
+            "options": [
+                "shift()",
+                "pop()",
+                "remove()",
+                "delete()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания копии массива?",
+            "options": [
+                "slice()",
+                "copy()",
+                "clone()",
+                "duplicate()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для преобразования объекта в строку JSON?",
+            "options": [
+                "JSON.stringify()",
+                "JSON.parse()",
+                "toJSON()",
+                "stringify()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для обработки ошибок в JavaScript?",
+            "options": [
+                "try...catch",
+                "handleError()",
+                "catchError()",
+                "try...except"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания асинхронной функции?",
+            "options": [
+                "async function(){}",
+                "await function(){}",
+                "promise function(){}",
+                "setAsync()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для ожидания выполнения промиса?",
+            "options": [
+                "await",
+                "then",
+                "resolve",
+                "promise"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания нового промиса?",
+            "options": [
+                "new Promise()",
+                "create Promise()",
+                "Promise.create()",
+                "make Promise()"
+            ],
+            "correctOption": 0
+        }
+    ]
+}

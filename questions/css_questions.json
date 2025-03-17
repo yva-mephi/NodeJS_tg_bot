@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "Какой из следующих селекторов выбирает все элементы с классом 'example'?",
+            "options": [
+                ".example",
+                "#example",
+                "example",
+                "all.example"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой CSS-свойство используется для изменения цвета текста?",
+            "options": [
+                "color",
+                "text-color",
+                "font-color",
+                "bgcolor"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для изменения фона элемента?",
+            "options": [
+                "background-color",
+                "color",
+                "bgcolor",
+                "background"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений используется для задания прозрачности элемента?",
+            "options": [
+                "opacity",
+                "transparency",
+                "visibility",
+                "filter"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих селекторов выбирает элемент с идентификатором 'header'?",
+            "options": [
+                "#header",
+                ".header",
+                "header",
+                "header#"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания отступов внутри элемента?",
+            "options": [
+                "padding",
+                "margin",
+                "border",
+                "spacing"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания внешних отступов элемента?",
+            "options": [
+                "margin",
+                "padding",
+                "border",
+                "spacing"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений используется для задания шрифта?",
+            "options": [
+                "font-family",
+                "font-type",
+                "text-font",
+                "typeface"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для задания стилей для псевдоэлемента?",
+            "options": [
+                "::before",
+                ":before",
+                "before",
+                "before::"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания размера шрифта?",
+            "options": [
+                "font-size",
+                "text-size",
+                "size",
+                "font"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений используется для задания способа отображения элемента?",
+            "options": [
+                "display",
+                "visibility",
+                "float",
+                "position"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'display' делает элемент блочным?",
+            "options": [
+                "block",
+                "inline",
+                "inline-block",
+                "flex"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'position' делает элемент фиксированным относительно окна браузера?",
+            "options": [
+                "fixed",
+                "absolute",
+                "relative",
+                "static"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для создания границ вокруг элемента?",
+            "options": [
+                "border",
+                "outline",
+                "margin",
+                "padding"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания стиля границы?",
+            "options": [
+                "border-style",
+                "border-type",
+                "border-color",
+                "border-width"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'overflow' скрывает содержимое, выходящее за пределы элемента?",
+            "options": [
+                "hidden",
+                "scroll",
+                "auto",
+                "visible"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'float' позволяет элементу обтекаться текстом?",
+            "options": [
+                "left",
+                "right",
+                "none",
+                "both"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания цвета фона элемента?",
+            "options": [
+                "background-color",
+                "color",
+                "bgcolor",
+                "background"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений используется для задания шрифта в CSS?",
+            "options": [
+                "font-family",
+                "font-type",
+                "text-font",
+                "typeface"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих псевдоклассов выбирает элементы при наведении курсора мыши?",
+            "options": [
+                ":hover",
+                ":focus",
+                ":active",
+                ":visited"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания стиля текста?",
+            "options": [
+                "text-decoration",
+                "text-style",
+                "font-style",
+                "text-color"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'text-align' выравнивает текст по центру?",
+            "options": [
+                "center",
+                "left",
+                "right",
+                "justify"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'list-style-type' отображает маркеры в виде кружков?",
+            "options": [
+                "circle",
+                "disc",
+                "square",
+                "none"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания расстояния между строками текста?",
+            "options": [
+                "line-height",
+                "spacing",
+                "text-spacing",
+                "font-spacing"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания тени текста?",
+            "options": [
+                "text-shadow",
+                "shadow",
+                "font-shadow",
+                "box-shadow"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'display' делает элемент строчным?",
+            "options": [
+                "inline",
+                "block",
+                "inline-block",
+                "flex"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'position' делает элемент относительным?",
+            "options": [
+                "relative",
+                "absolute",
+                "fixed",
+                "static"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих свойств используется для задания радиуса закругления углов элемента?",
+            "options": [
+                "border-radius",
+                "corner-radius",
+                "border-curvature",
+                "radius"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих значений свойства 'visibility' скрывает элемент, но оставляет место для него?",
+            "options": [
+                "hidden",
+                "collapse",
+                "visible",
+                "none"
+            ],
+            "correctOption": 0
+        }
+    ]
+}

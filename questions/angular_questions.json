@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "Что такое Angular?",
+            "options": [
+                "Фреймворк для создания одностраничных приложений",
+                "Язык программирования",
+                "Библиотека для работы с базами данных",
+                "Инструмент для тестирования"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой язык используется для написания приложений на Angular?",
+            "options": [
+                "TypeScript",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой командой создается новый проект Angular?",
+            "options": [
+                "ng new project-name",
+                "angular create project-name",
+                "npm init angular project-name",
+                "ng create project-name"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое компонент в Angular?",
+            "options": [
+                "Основной строительный блок приложения, который управляет представлением",
+                "Модуль для работы с данными",
+                "Сервис для обработки запросов",
+                "Тип данных"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой файл используется для настройки маршрутизации в Angular?",
+            "options": [
+                "app-routing.module.ts",
+                "routing.module.ts",
+                "app.module.ts",
+                "routes.ts"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое директива в Angular?",
+            "options": [
+                "Код, который изменяет поведение или внешний вид элемента",
+                "Компонент с данными",
+                "Сервис для обработки запросов",
+                "Тип данных"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для связывания данных в Angular?",
+            "options": [
+                "{{ }}",
+                "[ ]",
+                "( )",
+                "< >"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое сервис в Angular?",
+            "options": [
+                "Класс, который предоставляет функциональность, доступную для других компонентов",
+                "Модуль для работы с данными",
+                "Компонент с данными",
+                "Тип данных"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для внедрения зависимостей в Angular?",
+            "options": [
+                "Dependency Injection",
+                "Service Injection",
+                "Constructor Injection",
+                "Module Injection"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой файл содержит корневой модуль приложения Angular?",
+            "options": [
+                "app.module.ts",
+                "main.ts",
+                "index.html",
+                "app.component.ts"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое RxJS в контексте Angular?",
+            "options": [
+                "Библиотека для работы с асинхронными данными",
+                "Фреймворк для тестирования",
+                "Тип данных",
+                "Модуль для работы с базами данных"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для отправки HTTP-запросов в Angular?",
+            "options": [
+                "HttpClient",
+                "HttpService",
+                "HttpRequest",
+                "HttpModule"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для создания маршрутов в Angular?",
+            "options": [
+                "RouterModule",
+                "Routes",
+                "Router",
+                "Route"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое модуль в Angular?",
+            "options": [
+                "Контейнер для группы компонентов, директив и сервисов",
+                "Тип данных",
+                "Метод для обработки ошибок",
+                "Компонент с данными"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания нового компонента в Angular?",
+            "options": [
+                "ng generate component component-name",
+                "ng create component component-name",
+                "ng new component component-name",
+                "ng add component component-name"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое pipe в Angular?",
+            "options": [
+                "Функция для преобразования данных в шаблоне",
+                "Метод для обработки ошибок",
+                "Класс для работы с HTTP-запросами",
+                "Директива для изменения стилей"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания форм в Angular?",
+            "options": [
+                "Reactive Forms",
+                "Template-driven Forms",
+                "FormBuilder",
+                "NgForm"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое Angular Universal?",
+            "options": [
+                "Рендеринг Angular приложений на сервере",
+                "Инструмент для тестирования",
+                "Библиотека для работы с асинхронными данными",
+                "Фреймворк для создания мобильных приложений"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для подписки на Observable в Angular?",
+            "options": [
+                ".subscribe()",
+                ".then()",
+                ".catch()",
+                ".execute()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое AOT в Angular?",
+            "options": [
+                "Ahead-of-Time компиляция",
+                "Just-in-Time компиляция",
+                "Асинхронная обработка",
+                "Синхронная обработка"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для обработки ошибок в Angular?",
+            "options": [
+                "ErrorHandler",
+                "CatchError",
+                "HandleError",
+                "TryCatch"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой оператор используется для обработки событий в Angular?",
+            "options": [
+                "(event)",
+                "[event]",
+                "{event}",
+                "<event>"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое NgModule в Angular?",
+            "options": [
+                "Декоратор, который определяет модуль приложения",
+                "Компонент для отображения данных",
+                "Сервис для работы с HTTP",
+                "Директива для управления поведением"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания нового сервиса в Angular?",
+            "options": [
+                "ng generate service service-name",
+                "ng create service service-name",
+                "ng new service service-name",
+                "ng add service service-name"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое Angular Material?",
+            "options": [
+                "Библиотека компонентов UI для Angular",
+                "Фреймворк для тестирования",
+                "Библиотека для работы с асинхронными данными",
+                "Инструмент для сборки приложений"
+            ],
+            "correctOption": 0
+        }
+    ]
+}

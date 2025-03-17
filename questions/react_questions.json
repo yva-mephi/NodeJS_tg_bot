@@ -1,0 +1,264 @@
+{
+    "questions": [
+        {
+            "question": "Что такое React?",
+            "options": [
+                "Библиотека для создания пользовательских интерфейсов",
+                "Язык программирования",
+                "Система управления базами данных",
+                "Фреймворк для серверного рендеринга"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для создания компонента в классовом стиле?",
+            "options": [
+                "render()",
+                "create()",
+                "component()",
+                "build()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод жизненного цикла вызывается сразу после монтирования компонента?",
+            "options": [
+                "componentDidMount()",
+                "componentWillMount()",
+                "componentDidUpdate()",
+                "render()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой метод используется для обновления состояния компонента?",
+            "options": [
+                "setState()",
+                "updateState()",
+                "changeState()",
+                "modifyState()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое JSX?",
+            "options": [
+                "Синтаксический сахар для описания структуры компонентов",
+                "Язык стилей",
+                "Язык разметки",
+                "Формат данных"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для обработки событий в React?",
+            "options": [
+                "onClick",
+                "handleClick",
+                "eventClick",
+                "clickEvent"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих хуков используется для управления состоянием в функциональных компонентах?",
+            "options": [
+                "useState",
+                "useEffect",
+                "useReducer",
+                "useContext"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих хуков используется для выполнения побочных эффектов?",
+            "options": [
+                "useEffect",
+                "useState",
+                "useMemo",
+                "useCallback"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой атрибут используется для передачи данных от родительского компонента к дочернему?",
+            "options": [
+                "props",
+                "state",
+                "context",
+                "data"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'props drilling'?",
+            "options": [
+                "Передача props через несколько уровней компонентов",
+                "Передача состояния между компонентами",
+                "Подключение внешних библиотек",
+                "Создание компонентов"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'state' в React?",
+            "options": [
+                "Локальное состояние компонента",
+                "Глобальное состояние приложения",
+                "Состояние сервера",
+                "Статические данные"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов позволяет обновить состояние на основе предыдущего состояния?",
+            "options": [
+                "setState((prevState) => newState)",
+                "setState(newState)",
+                "updateState(prevState)",
+                "changeState(newState)"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для удаления компонента из DOM?",
+            "options": [
+                "componentWillUnmount()",
+                "componentDidUnmount()",
+                "removeComponent()",
+                "destroyComponent()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'React Router'?",
+            "options": [
+                "Библиотека для управления маршрутизацией в приложениях React",
+                "Инструмент для стилей",
+                "Библиотека для работы с состоянием",
+                "Фреймворк для тестирования"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для создания контекста в React?",
+            "options": [
+                "React.createContext()",
+                "createContext()",
+                "Context.create()",
+                "new Context()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих хуков используется для оптимизации производительности компонентов?",
+            "options": [
+                "useMemo",
+                "useState",
+                "useEffect",
+                "useCallback"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'higher-order component' (HOC)?",
+            "options": [
+                "Функция, которая принимает компонент и возвращает новый компонент",
+                "Компонент, который рендерит другие компоненты",
+                "Стандартный компонент React",
+                "Компонент, который не имеет состояния"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой атрибут используется для управления уникальностью компонентов в списках?",
+            "options": [
+                "key",
+                "id",
+                "ref",
+                "data-attribute"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'React Fragment'?",
+            "options": [
+                "Способ группировки нескольких элементов без добавления дополнительных узлов в DOM",
+                "Специальный компонент для работы с состоянием",
+                "Метод для создания компонентов",
+                "Инструмент для стилизации"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для управления формами в React?",
+            "options": [
+                "onChange",
+                "onSubmit",
+                "onClick",
+                "onInput"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'Redux'?",
+            "options": [
+                "Библиотека для управления состоянием приложений",
+                "Инструмент для стилизации",
+                "Фреймворк для тестирования",
+                "Библиотека для работы с API"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для создания пользовательских хуков?",
+            "options": [
+                "function useCustomHook() {}",
+                "createHook()",
+                "useHook()",
+                "customHook()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'React DevTools'?",
+            "options": [
+                "Инструмент для отладки приложений React",
+                "Библиотека для стилизации",
+                "Фреймворк для тестирования",
+                "Инструмент для работы с API"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для получения данных из API в React?",
+            "options": [
+                "fetch()",
+                "axios()",
+                "getData()",
+                "request()"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Что такое 'Controlled Component'?",
+            "options": [
+                "Компонент, состояние которого управляется React",
+                "Компонент без состояния",
+                "Компонент с внутренним состоянием",
+                "Компонент, который не рендерится"
+            ],
+            "correctOption": 0
+        },
+        {
+            "question": "Какой из следующих методов используется для работы с асинхронным кодом в React?",
+            "options": [
+                "async/await",
+                ".then()",
+                "Promise.all()",
+                "setTimeout()"
+            ],
+            "correctOption": 0
+        }
+    ]
+}
