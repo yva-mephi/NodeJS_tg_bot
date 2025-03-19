@@ -1,5 +1,8 @@
 # NodeJS_tg_bot
 Этот проект представляет собой Telegram-бота для подготовки к техническим собеседованиям. Бот помогает пользователям изучать и повторять вопросы по различным технологиям, таким как HTML, CSS, JavaScript, React, Angular, TypeScript и Node.js. Проект был создан с целью изучения современных технологий и практики разработки Telegram-ботов.
+![bot1](https://github.com/user-attachments/assets/eccd3c95-5528-4975-b4a9-2a2a676ea76c)
+![bot2](https://github.com/user-attachments/assets/6979a1d7-78a5-444b-a07e-3f71a71aa30c)
+![bot3](https://github.com/user-attachments/assets/5ff16b71-a14b-415d-ab35-80dd3a9f5beb)
 
 ---
 
